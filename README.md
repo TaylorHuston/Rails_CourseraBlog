@@ -1,3 +1,3 @@
 #Coursera Blog App
 
-Project from the Coursera coure: Web Application Architectures
+Project from the Coursera course: Web Application Architectures
